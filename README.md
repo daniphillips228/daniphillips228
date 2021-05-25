@@ -2,7 +2,7 @@
 - 👀 I’m interested in not crying in the labs
 - 🌱 I’m currently learning NLP.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: dani228@me.com
 
 <!---
 daniphillips228/daniphillips228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
